@@ -22,7 +22,6 @@
 Структура нашего проекта
 hackathon/
 ├── file_main_process.py
-├── mail_processor.py
 ├── run.sh
 ├── data/
 │   ├── inbox/
